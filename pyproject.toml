@@ -7,6 +7,9 @@ authors = ["Humberto Esparza <humberto.dev96@gmail.com>"]
 [tool.poetry.dependencies]
 python = "3.10"
 PySide6 = "^6.3.1"
+pandas = "^1.4.3"
+fastparquet = "^0.8.2"
+pyarrow = "^9.0.0"
 
 [tool.poetry.dev-dependencies]
 
